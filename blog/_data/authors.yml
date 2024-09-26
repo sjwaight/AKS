@@ -95,3 +95,18 @@ Sachi Desai:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:sachidesai@microsoft.com"
+
+Simon Waight:
+  name        : "Simon Waight"
+  bio         : "Senior Product Manager for Kubernetes Fleet Manager"
+  avatar      : "https://blog.siliconvalve.com/_next/image?url=%2Fstatic%2Fimages%2Fsimon-avatar.jpg&w=384&q=75"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/simonwaight/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sjwaight"
+    - label: "Blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://blog.siliconvalve.com/"
